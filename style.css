@@ -159,6 +159,14 @@ nav ul li a:hover{
 
     min-height:100vh;
 
+    background-image:url("pynx.png") !important;
+
+    background-size:cover !important;
+
+    background-position:center center !important;
+
+    background-repeat:no-repeat !important;
+
     display:flex;
     justify-content:center;
     align-items:center;
@@ -166,11 +174,6 @@ nav ul li a:hover{
     text-align:center;
 
     padding:140px 20px 100px;
-}
-
-.hero-content{
-
-    max-width:900px;
 }
 
 .hero h1{
